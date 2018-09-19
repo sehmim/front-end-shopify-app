@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.ror{
+  width: 28%;
+}
+
+.products{
+  border: 2% dashed black;
+}
+
+.btn{
+  margin: .5em;
+}
